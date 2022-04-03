@@ -9,7 +9,7 @@ function Navbar() {
           <img src="/images/logo.png" alt="logo" height="100px" width="100px" />
         </a>
 
-        <nav className="title-font font-medium text-white mb-4 md:mb-0">
+        <nav className="title-font font-medium text-white mb-4 md:mb-0 ">
           <a href="#about" className="ml-3 text-xl">
             EVANS KIPROTICH
           </a>
